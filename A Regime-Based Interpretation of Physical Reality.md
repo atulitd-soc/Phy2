@@ -157,3 +157,46 @@ Q6. Is this falsifiable?
 
 The framework suggests where regime-completeness may fail, motivating targeted analysis of anomalies and boundary conditions. Formal falsifiability depends on further mathematical and experimental development.
 
+-------------
+© 2026 Atul Asthana. All Rights Reserved.
+
+This work, including the accompanying scientific paper and the associated
+science-fiction narrative, is an original creation authored by Atul Asthana.
+It contains novel speculative postulations and conceptual frameworks relating
+to quantum and particle physics, cosmology, relativity, gravity, and their
+interrelationships, expressed through both formal scientific exposition and
+fictional narrative form.
+
+The scientific concepts, hypotheses, narrative structure, characters, settings,
+thematic architecture, and the specific manner in which physics is woven into
+fiction constitute a single, inseparable body of protected expression.
+
+This work is publicly disclosed solely for the purposes of establishing
+authorship, priority, and prior art as of the date of publication.
+Such disclosure shall not be construed as a waiver, transfer, dedication,
+or abandonment of any present or future intellectual property rights.
+
+No part of this work may be copied, reproduced, summarized, translated,
+distributed, adapted, dramatized, or used to create derivative works,
+in whole or in part, in any form or medium, without the author's prior
+explicit written permission.
+
+In particular, no rights are granted for adaptation into any audiovisual,
+performative, or interactive format, including but not limited to films,
+web series, television programs, streaming content, animations, games,
+virtual or augmented reality experiences, or other narrative media.
+All film, television, streaming, and dramatic rights are expressly reserved.
+
+Academic use, research use, incorporation into publications, simulations,
+software, models, or experimental programs, as well as use for training,
+fine-tuning, or benchmarking artificial intelligence or machine-learning
+systems, whether commercial or non-commercial, is strictly prohibited
+without explicit written authorization from the author.
+
+All licensing, optioning, and commercialization rights relating to this work,
+including but not limited to publishing, academic, scientific, cinematic,
+and media adaptations, are expressly reserved by the author and may be
+granted selectively at the author's sole discretion.
+
+Any unauthorized use shall constitute willful infringement under applicable
+copyright and intellectual property laws.
